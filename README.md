@@ -6,3 +6,5 @@ Also, I created extra line called "Secret" that shows wich letter computer picke
 
 Look forward to your feedback!
 
+
+Deployed project link https://katrinity.github.io/Psychic-Game/
